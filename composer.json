@@ -1,5 +1,5 @@
 {
-    "name": "sevn/krumo",
+    "name": "anystar/krumo",
     "type": "library",
     "description": "KRUMO - version 2.0 of print_r(); and var_dump(); (with new updates)",
     "license": "LGPL",
